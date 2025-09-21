@@ -1,0 +1,4 @@
+https://jsonplaceholder.typicode.com/
+https://icanhazdadjoke.com/
+https://httpbin.org/
+https://api.chucknorris.io/
